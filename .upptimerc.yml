@@ -11,6 +11,8 @@ sites:
     url: https://miet-results.devxoshakya.xyz
   - name: Presence
     url: https://presence.devxoshakya.xyz
+  - name: Interlinked
+    url: https://interlinked.devxoshakya.xyz
  
 
 status-website:

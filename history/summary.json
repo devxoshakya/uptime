@@ -4,10 +4,10 @@
     "url": "https://anveshna.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/anveshna.xyz.ico",
     "slug": "anveshna",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 423,
@@ -15,17 +15,19 @@
     "timeWeek": 437,
     "timeMonth": 411,
     "timeYear": 423,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 2
+    }
   },
   {
     "name": "Portfolio",
     "url": "https://devxoshakya.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/devxoshakya.xyz.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 479,
@@ -33,17 +35,19 @@
     "timeWeek": 511,
     "timeMonth": 463,
     "timeYear": 479,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 1
+    }
   },
   {
     "name": "MIET Results Listing",
     "url": "https://miet-results.devxoshakya.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/miet-results.devxoshakya.xyz.ico",
     "slug": "miet-results-listing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
@@ -51,7 +55,9 @@
     "timeWeek": 183,
     "timeMonth": 224,
     "timeYear": 187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 1
+    }
   },
   {
     "name": "Presence",
@@ -76,9 +82,9 @@
     "url": "https://interlinked.devxoshakya.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/interlinked.devxoshakya.xyz.ico",
     "slug": "interlinked",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +93,8 @@
     "timeWeek": 1388,
     "timeMonth": 1336,
     "timeYear": 1650,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 0
+    }
   }
 ]

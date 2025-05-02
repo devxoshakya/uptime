@@ -24,10 +24,10 @@
     "url": "https://devxoshakya.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/devxoshakya.xyz.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 482,
@@ -36,6 +36,7 @@
     "timeMonth": 512,
     "timeYear": 482,
     "dailyMinutesDown": {
+      "2025-05-02": 1,
       "2025-04-03": 42
     }
   },
@@ -44,10 +45,10 @@
     "url": "https://miet-results.devxoshakya.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/miet-results.devxoshakya.xyz.ico",
     "slug": "miet-results-listing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 199,
@@ -56,6 +57,7 @@
     "timeMonth": 274,
     "timeYear": 199,
     "dailyMinutesDown": {
+      "2025-05-02": 1,
       "2025-04-03": 42
     }
   },

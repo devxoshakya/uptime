@@ -4,15 +4,15 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Anveshna.
-    url: https://anveshna.xyz
+    url: https://anveshna.devshakya.xyz
   - name: Portfolio
-    url: https://devxoshakya.xyz
+    url: https://devshakya.xyz
   - name: MIET Results Listing
-    url: https://miet-results.devxoshakya.xyz
+    url: https://mietresults.devshakya.xyz
   - name: Presence
-    url: https://presence.devxoshakya.xyz
-  - name: Interlinked
-    url: https://interlinked.devxoshakya.xyz
+    url: https://presence.devshakya.xyz
+  - name: Singularity
+    url: https://singularity.devshakya.xyz
  
 
 status-website:

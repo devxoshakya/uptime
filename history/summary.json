@@ -6,7 +6,7 @@
     "slug": "anveshna",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 124,
     "timeYear": 354,
     "dailyMinutesDown": {
+      "2025-07-18": 0,
       "2025-05-02": 18,
       "2025-04-03": 43
     }
@@ -25,9 +26,9 @@
     "url": "https://devshakya.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/devshakya.xyz.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -37,6 +38,7 @@
     "timeMonth": 274,
     "timeYear": 425,
     "dailyMinutesDown": {
+      "2025-07-18": 0,
       "2025-05-02": 87,
       "2025-04-03": 42
     }
@@ -68,9 +70,9 @@
     "url": "https://presence.devshakya.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/presence.devshakya.xyz.ico",
     "slug": "presence",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -79,16 +81,18 @@
     "timeWeek": 95,
     "timeMonth": 122,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-18": 0
+    }
   },
   {
     "name": "Singularity",
     "url": "https://singularity.devshakya.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/singularity.devshakya.xyz.ico",
     "slug": "singularity",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -98,6 +102,7 @@
     "timeMonth": 1054,
     "timeYear": 787,
     "dailyMinutesDown": {
+      "2025-07-18": 0,
       "2025-06-01": 32
     }
   }

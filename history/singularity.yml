@@ -1,7 +1,7 @@
 url: https://singularity.devshakya.xyz
-status: up
-code: 200
-responseTime: 504
-lastUpdated: 2025-11-18T11:55:32.446Z
+status: down
+code: 500
+responseTime: 75
+lastUpdated: 2025-11-18T13:23:21.559Z
 startTime: 2025-05-02T03:31:52.180Z
 generator: Upptime <https://github.com/upptime/upptime>
